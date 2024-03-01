@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaisaayu
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML CSS and JAVA Script.
 - 💞️ I’m looking to collaborate on GIThub
 - 📫 How to reach me web devlopment.
 - 😄 Pronouns: aayu
